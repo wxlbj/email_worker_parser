@@ -1,4 +1,4 @@
-name = "email_worker_parser"
+name = "email-parser
 main = "src/index.ts"
 compatibility_date = "2024-06-06" 
 
